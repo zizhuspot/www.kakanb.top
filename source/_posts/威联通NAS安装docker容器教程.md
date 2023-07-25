@@ -9,6 +9,6 @@ tags:
   - docker
   - container station
   - 容器
-description: 描述
-cover: 封面图片（可选，没有请删掉这一行）
+description: 基于威联通5.1.0.2466系统版本讲解怎么在container station（docker）下部署安装容器。
+cover: ![](https://s2.loli.net/2023/07/25/jdbaMFZs47W5E6A.png)
 ---
