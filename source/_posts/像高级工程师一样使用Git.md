@@ -13,20 +13,17 @@ description: 大家在使用Git中经常会查看Git日志，本文教大家正�
 cover: https://s2.loli.net/2023/07/29/XaJnWAPdmtSbreu.png
 ---
 
-##浏览 Git 日志
+## 1 浏览 Git 日志
 
 默认情况下，Git 日志很难查看（不容易看懂，不容易找到症结），但是查看git log往往是最基本的。使用 git log 可以提供一些信息。但它的分辨性较低，通常不是您正在寻找的内容。
 > ``` git log ```
+
 ![git log](https://s2.loli.net/2023/07/29/cmLtZQzvxbREH6U.png)
-让我们保持真实。这些日志并没有给任何人留下深刻印象。它们很无聊。而且它们充满了您现在不需要的信息。您正在尝试对项目中发生的情况有一个高层次的了解。
-有更好的方法。
-带有更多可见性的 git 日志
-使用 --graph 和 --format，我们可以快速获取项目中 git 提交的摘要视图。
-git log --graph --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%an%C(reset)%C(bold yellow)%d%C(reset) %C(dim white)- %s%C(reset)' --all
-
-git log --graph --format=format:’<>’ --all
-
-哇！这些日志看起来很不错！旁边甚至有一个分支树的样子。
+这些日志并没有给任何人留下深刻印象。它们无聊且充满了不需要的信息。你需要在项目中的情况有一个高层次的了解。
+## 2 使用graph和format
+使用graph和format可以查看更多可见性的 git 日志，使用 --graph 和 --format，我们可以快速获取项目中 git 提交的摘要视图。
+> ``` git log --graph --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%an%C(reset)%C(bold yellow)%d%C(reset) %C(dim white)- %s%C(reset)' --all```
+![git log --graph --format=format:’<>’ --all](https://s2.loli.net/2023/07/29/DchFJ4kT1Z9UnQE.png)
 这些日志向您展示了谁在做什么，何时进行了更改以及您的更改如何适应更大的情况。
 --graph 在左侧添加了树形图。它不是最时尚的图形，但它有助于可视化项目分支中的更改。（ 在此处阅读文档。）
 --format 允许您自定义日志的格式。有可供选择的预设格式，或者您可以编写自己的格式，例如此示例。（ 在此处阅读文档。）
