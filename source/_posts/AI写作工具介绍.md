@@ -2,7 +2,7 @@
 title: AI写作工具介绍
 date: 2023-7-30 03:22:04
 categories:
-  - AI工具
+  - AI
 tags:
   - 写作
   - AI
