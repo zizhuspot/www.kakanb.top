@@ -35,8 +35,8 @@ code_word_wrap: true
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/zizhuspot/guangchao || Github || '#24292e'
-  fas fa-envelope: mailto:luozhu2021@gmail.com || Email || '#4a7dbe'
-  fab fa-twitter: https://twitter.com/luozhu2021 || Twitter || '#00acee'
+  fas fa-envelope: mailto:lgc2565@gmail.com || Email || '#4a7dbe'
+  fab fa-twitter: https://twitter.com/brvchaos || Twitter || '#00acee'
 
 # Image (圖片設置)
 # --------------------------------------
