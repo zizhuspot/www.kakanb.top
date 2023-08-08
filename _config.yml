@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 广超的博客
+title: 梦马银河
 subtitle: 用知识和创意创造未来
-description: 欢迎来到的博客！在这里，广超分享各种各样的主题，包括加密货币、科学、文化、产品、大事件、人工智能、旅游、美食等等。我的目标是为读者提供有趣、有用、有启发性的内容，帮助他们了解世界和自我成长。
+description: 欢迎来到的梦马银河！在这里，广超分享各种各样的主题，包括加密货币、科学、文化、产品、大事件、人工智能、旅游、美食等等。我的目标是为读者提供有趣、有用、有启发性的内容，帮助他们了解世界和自我成长。
 keywords:
   - 加密货币
   - 科学
@@ -16,13 +16,13 @@ keywords:
   - 人工智能
   - 旅游
   - 美食
-author: GC
+author: 广超
 language: zh-CN
 timezone: Asia/Hong_Kong
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://eyey.fun
+url: https://www.eyey.fun
 permalink: :hash/
 permalink_defaults:
 pretty_urls:
