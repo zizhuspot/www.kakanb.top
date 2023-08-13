@@ -9,8 +9,8 @@ tags:
   - 在线激活
   - win11
   - 亦是美
-description:本文分享一个网站，网站提供windows各版本在线激活工具。
-cover: ![亦是美](https://s2.loli.net/2023/08/12/sA3YmM6bLf1C4HG.png)
+description: 本文分享一个网站，网站提供windows各版本在线激活工具。
+cover: https://s2.loli.net/2023/08/12/sA3YmM6bLf1C4HG.png
 ---
 
 ## 声明
