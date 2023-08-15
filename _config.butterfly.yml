@@ -497,7 +497,7 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: zizhuspot/guangchao
+  repo: zizhuspot/www.kakanb.top
   repo_id: R_kgDOJ9ahWw
   category_id: DIC_kwDOJ9ahW84CX_vj
   theme:
@@ -841,7 +841,7 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: true
+  enable: false
   exclude:
     # - xxxx
     # - xxxx
