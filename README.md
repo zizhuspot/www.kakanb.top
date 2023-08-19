@@ -10,7 +10,7 @@
 
 > 这里保存之后就会发布到网站，所以建议在 mdnice 写好之后再上传。
 
-1. 在 `source/_posts` 目录下新建一个 `markdown` 文件，文件名格式为 `标题.md`，例如 `hello-world.md`。
+1. 在 `source/_posts` 目录下新建一个 `markdown` 文件，文件名格式为 `标题.md`，例如 `hello-world.md` 或者 `你好世界.md`。
 2. 在 `markdown` 文件头部添加如下内容：
     ```md
     ---
@@ -104,7 +104,7 @@ cover:
 
 ```sh
 # 克隆仓库
-$ git clone https://github.com/zizhuspot/guangchao.git
+$ git clone https://github.com/zizhuspot/www.kakanb.top.git
 # 安装依赖
 $ yarn install
 # 运行
