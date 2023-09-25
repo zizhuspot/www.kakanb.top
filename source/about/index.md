@@ -1,25 +1,25 @@
 ---
-title: 关于
+title: About
 date: 2023-07-16 15:54:03
 ---
 
-## 我是谁
+## Who I am
 
-您好，我叫做 **“梦马银河”**，是一名**智慧城市建设者和GISer**。我热爱生活、科技以及一些不着边际的事情，并且非常乐意与大家分享我的经验和见解，希望能够与更多人交流和学习。
+Hello, my name is **"Dream Horse Galaxy "** and I am a **Smart City Builder and GISer**. I love life, technology, and borderline things, and am more than happy to share my experiences and insights with the hopes of connecting and learning from as many people as possible.
 
-## 我的修炼
+## My Practice
 
-我在**智慧城市建设、GIS软件应用**和 **科技产品“解毒”** 方面拥有较为丰富的经验。在求学、工作、创业和撰写博客的过程中，我积累了许多知识和经验，也遇到了很多挑战。正是这些经历让我不断成长并打磨了我的个性和价值观。
+I have rich experience in **smart city construction, GIS software application** and **technology product "detoxification "**. I have accumulated a lot of knowledge and experience, as well as encountered a lot of challenges in the process of studying, working, starting my own business and writing blogs. These experiences have helped me grow and polish my personality and values.
 
-## 我的信仰
+## My Beliefs
 
-我工作是为了以后不工作，我想告诉你的是**科学是工具，但不是信仰**，你热爱科学可以，但你更要热爱生活。
+I work so that I don't work later. What I want to tell you is **Science is a tool, but not a belief**, it's okay for you to love science, but you have to love life more.
 
-## 联系我
+## Contact me
 
-如果您有任何问题或建议，请随时与我联系。您可以通过以下方式找到我：
+If you have any questions or suggestions, please feel free to contact me. You can find me in the following ways:
 
-- 电子邮件：[lgc2565@gmail.com]
-- 社交媒体：[twitter：brvchaos]
+- Email: [lgc2565@gmail.com]
+- Social Media: [twitter: brvchaos]
 
-感谢您访问我的网站！
+Thank you for visiting my website!
